@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🕒 Checkout my Coding stats: [![wakatime](https://wakatime.com/badge/user/8161045b-e258-4932-ba45-d84d199eb2f2.svg)](https://wakatime.com/@8161045b-e258-4932-ba45-d84d199eb2f2)
+
 <!--
 **sundayj/sundayj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
