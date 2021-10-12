@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-- 🕒 Checkout my Coding stats: [![wakatime](https://wakatime.com/badge/user/8161045b-e258-4932-ba45-d84d199eb2f2.svg)](https://wakatime.com/@8161045b-e258-4932-ba45-d84d199eb2f2)
+- 🕒 Checkout my Coding stats:  [![wakatime](https://wakatime.com/badge/user/8161045b-e258-4932-ba45-d84d199eb2f2.svg)](https://wakatime.com/@8161045b-e258-4932-ba45-d84d199eb2f2)
+- 🔭 I’m currently working on...
+  - An Uber clone using Angular 10+
+  - A personal budgeting app using Python
+  - A tool to assist with your roster in Raid 
 
 <!--
 **sundayj/sundayj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
