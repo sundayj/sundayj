@@ -37,11 +37,11 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: <Your github username>
+          user: sundaj
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: US/New York
           config_output: svg
           filename: notable.svg
 
@@ -62,11 +62,11 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: <Your github username>
+          user: sundayj
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: US/New York
           config_output: svg
           filename: language.svg
 
@@ -87,11 +87,11 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: <Your github username>
+          user: sundayj
           template: classic
           base: ""
           config_display: large
-          config_timezone: Europe/Oslo
+          config_timezone: US/New York
           config_output: svg
           filename: achievements.svg
           repositories_batch: 5
