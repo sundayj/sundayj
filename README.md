@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-- 🕒 Checkout my Coding stats:  [![wakatime](https://wakatime.com/badge/user/8161045b-e258-4932-ba45-d84d199eb2f2.svg)](https://wakatime.com/@8161045b-e258-4932-ba45-d84d199eb2f2)
+## I am Justin Sunday
+
 <div align="left">
+<a href="https://wakatime.com/@8161045b-e258-4932-ba45-d84d199eb2f2">
+    <img
+      src="https://wakatime.com/badge/user/8161045b-e258-4932-ba45-d84d199eb2f2.svg"
+      alt="Wakatime"
+    />
+  </a>
   <a href="https://twitter.com/JustinSunday13">
     <img
       src="https://img.shields.io/twitter/follow/JustinSunday13?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
@@ -24,8 +31,6 @@
   </a>
 
 </div>
-
-## I am Justin Sunday
 
 
 ![Metrics](https://raw.githubusercontent.com/sundayj/sundayj/github-metrics/github-metrics.svg)
