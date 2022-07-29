@@ -19,7 +19,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/sundaj/sundayj/blob/main/devcard.svg"
+      src="https://github.com/sundayj/sundayj/blob/main/devcard.svg"
     />
   </a>
 
