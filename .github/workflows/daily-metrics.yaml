@@ -19,7 +19,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: <Your github username>
+          user: sundayj
           template: classic
           base: header, activity, community
           config_timezone: Europe/Oslo
@@ -37,7 +37,7 @@ jobs:
           committer_message: "build: update `${filename}`"
 
           # Options
-          user: sundaj
+          user: sundayj
           template: classic
           base: ""
           config_display: large
