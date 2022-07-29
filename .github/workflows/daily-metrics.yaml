@@ -22,7 +22,7 @@ jobs:
           user: sundayj
           template: classic
           base: header, activity, community
-          config_timezone: Europe/Oslo
+          config_timezone: US/New York
 
   notable:
     runs-on: ubuntu-latest
