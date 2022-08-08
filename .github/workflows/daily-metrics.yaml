@@ -22,7 +22,7 @@ jobs:
           user: sundayj
           template: classic
           base: header, activity, community
-          config_timezone: US/New York
+          config_timezone: America/New_York
 
   notable:
     runs-on: ubuntu-latest
@@ -41,7 +41,7 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: US/New York
+          config_timezone: America/New_York
           config_output: svg
           filename: notable.svg
 
@@ -66,7 +66,7 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: US/New York
+          config_timezone: America/New_York
           config_output: svg
           filename: language.svg
 
@@ -91,7 +91,7 @@ jobs:
           template: classic
           base: ""
           config_display: large
-          config_timezone: US/New York
+          config_timezone: America/New_York
           config_output: svg
           filename: achievements.svg
           repositories_batch: 5
