@@ -1415,7 +1415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nefarius/Injector</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command line utility to inject and eject DLLs</div>
@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DanEdens/rsl_log_parser</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Logs Raid Shadow Legend's resource data to a MQTT broker</div>
@@ -1572,7 +1572,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 21:22:43 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 23:22:49 (timezone America/New_York) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
