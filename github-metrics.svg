@@ -1360,7 +1360,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Perfare/AssetStudio</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.</div>
@@ -1564,7 +1564,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2022, 13:16:05 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 10 Dec 2022, 14:10:33 (timezone America/New_York) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
