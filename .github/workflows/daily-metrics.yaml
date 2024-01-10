@@ -28,36 +28,21 @@ jobs:
           user: sundayj
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_timezone: America/New_York
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          plugin_notable: yes
-          plugin_notable_from: all
-          plugin_notable_types: commit
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+          plugin_starlists: yes
+          plugin_starlists_limit: 2
+          plugin_starlists_limit_languages: 8
+          plugin_starlists_limit_repositories: 2
+          plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
           plugin_wakatime: yes
-          plugin_wakatime_days: 365
+          plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
