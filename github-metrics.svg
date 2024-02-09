@@ -418,7 +418,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>firecamp-dev/firecamp</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Developer-first OpenSource API DevTool, Postman/Insomnia alternative.</div>
@@ -471,7 +471,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keploy/keploy</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test generation for Developers. Generate tests and stubs for your application that actually work!</div>
@@ -593,7 +593,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Feb 2024, 22:13:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2024, 23:14:47 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
