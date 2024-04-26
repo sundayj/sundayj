@@ -517,7 +517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>springload/awesome-wagtail</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome packages, articles, and other cool resources from the Wagtail community.</div>
@@ -558,7 +558,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alebcay/awesome-shell</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.</div>
@@ -674,7 +674,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2024, 09:13:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2024, 10:12:01 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
