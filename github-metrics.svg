@@ -435,7 +435,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chrisdev/django-wagtail-feeds</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Adds support for RSS and JSON Feeds to your Wagtail CMS Projects</div>
@@ -704,7 +704,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2024, 15:10:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 May 2024, 16:15:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
