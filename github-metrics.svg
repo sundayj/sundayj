@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>obra/superpowers</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An agentic skills framework &amp; software development methodology that works.</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thoreinstein/gemini-obsidian</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Gemini CLI extension for interfacing with an Obsidian vault with local first RAG capabilities</div>
@@ -434,7 +434,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iOfficeAI/AionUi</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!</div>
@@ -487,7 +487,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jazzband/django-two-factor-auth</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.</div>
@@ -609,7 +609,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2026, 22:47:30 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2026, 23:33:44 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
