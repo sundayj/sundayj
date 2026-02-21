@@ -328,7 +328,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jazzband/django-two-factor-auth</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.</div>
@@ -381,7 +381,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gemini-cli-extensions/code-review</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google's Code Review extension for the Gemini CLI that reviews your code changes</div>
@@ -428,7 +428,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gemini-cli-extensions/security</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google's Security extension for the Gemini CLI that finds vulnerabilities in your code changes and pull requests.</div>
@@ -481,7 +481,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>galz10/pickle-rick-extension</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This extension transforms the Gemini CLI into "Pickle Rick," a hyper-intelligent, arrogant, yet extremely competent  engineering persona. It enforces a rigid, iterative software development lifecycle through continuous AI agent loops. Emphasizing "God Mode" coding practices and a disdain for</div>
@@ -603,7 +603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Feb 2026, 19:26:04 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Feb 2026, 20:35:45 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
